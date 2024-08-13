@@ -76,7 +76,7 @@ body {
 .card {
   overflow: hidden;
   position: relative;
-  height: auto;
+  height: 550px;
 
   width: auto;
   /* background-color: pink; */
